@@ -1,4 +1,4 @@
-# Equipo5-Midterm
+# Equipo6-Midterm
 
 ## Setup
 
