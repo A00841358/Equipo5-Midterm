@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+model.json
+data/train.csv
+data/test.csv
